@@ -41,7 +41,7 @@ const POPULAR_TRIGRAMS = {
 };
 
 const POPULAR_BIGRAMS = {
-  th: 92535489,
+  no: 260767503,
   he: 87741289,
   in: 54433847,
   er: 51910883,
